@@ -1,0 +1,1894 @@
+<!DOCTYPE HTML>
+
+
+
+
+	
+
+
+
+
+<html class="no-js" lang="en" dir="ltr">
+    
+<head>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <!-- /* Initialize custom Beans for Learn-support model */ -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js" nomodule></script>
+
+
+
+
+
+
+<!--PUBLISH STAMP
+<properties>
+	<property>
+		<name>ServedBy</name>
+		<value>LOC PUBLISHER</value>
+	</property>
+	<property>
+		<name>ServedAt</name>
+		<value>Fri Mar 12 16:34:03 UTC 2021</value>
+	</property>
+</properties>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<title>404. Page not found.</title>-->
+<title>404. Page not found.</title>
+
+
+	
+	
+<link rel="dns-prefetch" href="//assets.adobedtm.com"/>
+<link rel="dns-prefetch" href="//sstats.adobe.com"/>
+<link rel="dns-prefetch" href="//use.typekit.com"/>
+<link rel="dns-prefetch" href="//use.typekit.net"/>
+<link rel="dns-prefetch" href="//wwwimages2.adobe.com"/>
+<link rel="dns-prefetch" href="//universal.iperceptions.com"/>
+<link rel="dns-prefetch" href="//p.typekit.net"/>
+<link rel="dns-prefetch" href="//adobe.com"/>
+<link rel="dns-prefetch" href="//dpm.demdex.net"/>
+<link rel="dns-prefetch" href="//api.demandbase.com"/>
+<link rel="dns-prefetch" href="//geo2.adobe.com"/>
+<link rel="dns-prefetch" href="//fast.adobe.demdex.net"/>
+<link rel="dns-prefetch" href="//static.adobelogin.com"/>
+<link rel="dns-prefetch" href="//c.evidon.com"/>
+<link rel="dns-prefetch" href="//l3.evidon.com"/>
+
+	<link rel="dns-prefetch" href="//adobeid-na1.services.adobe.com"/>
+	<link rel="dns-prefetch" href="//wwwimages.adobe.com"/>
+
+
+
+
+    
+    
+    
+        <link rel="alternate" hreflang="en" href="https://helpx.adobe.com/404.html"/>
+    
+
+
+    
+    
+<script>
+    if (typeof (AdobeLearn) === "undefined") AdobeLearn = {};
+    if (typeof (AdobeLearn.Locale) === "undefined") AdobeLearn.Locale = {};
+    if (typeof (AdobeLearn.Config) === "undefined") AdobeLearn.Config = {};
+    
+    AdobeLearn.Locale["pageLocale"] = 'en_us';
+    AdobeLearn.Locale["pageLanguage"] = 'en';
+    AdobeLearn.Locale["pageCountry"] = 'US';
+    AdobeLearn.Locale["nonEmptyUrlLocale"] = 'en';
+    AdobeLearn.Locale["urlLocale"] = '';
+    AdobeLearn.Locale["folderLocale"] = 'en';
+    AdobeLearn.Locale["contentUrl"] = '\/';
+    AdobeLearn.Locale["contentFolder"] = '\/content\/help\/en\/';
+    AdobeLearn.Locale["datetimeLocale"] = 'en';
+    AdobeLearn.Locale["datetimeFormat"] = 'MMM. dd, yyyy';
+    AdobeLearn.Locale["parentLocale"] = '';
+    AdobeLearn.Locale["fiveLetterLocale"] = 'en_US';
+    AdobeLearn.Locale["globalNavLocale"] = 'en_us';
+    AdobeLearn.Locale["customPageLocale"] = 'en_US';
+    AdobeLearn.Locale["customPageLanguage"] = 'en';
+    AdobeLearn.Config["tier"] = 'PROD';
+    AdobeLearn.Config["serverType"] = 'external';
+    AdobeLearn.Config["externalLoadBalancer"] = 'https:\/\/helpx.adobe.com';
+    AdobeLearn.Config["author"] = 'false';
+    AdobeLearn.Config["author-preview"] = 'false';
+    AdobeLearn.Config["authorPrefix"] = '/content/help/en';
+    AdobeLearn.Locale["relativePath"] = '/';
+    AdobeLearn.Config["isHelpx"] = 'true';
+    AdobeLearn.Config["pageTemplate"] = 'help/components/pages/article-3';
+</script>
+
+
+    
+    
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9,10"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="Content-Locale" content="en_US"/>
+<meta http-equiv="Content-Language" content="en"/>
+<meta http-equiv="Cache-Control" content="public"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
+
+<meta name="robots" content="noindex, nofollow"/>
+
+
+
+
+
+<!-- No google featured snippets  -->
+
+
+<!-- SEO title / Title -->
+<meta name="title" content="404. Page not found."/>
+<!-- SEO description / Description -->
+<meta name="description"/>
+<!-- Experience Level -->
+<meta name="targetAudience"/>
+<!-- Learning Approach (content-type)  -->
+<meta name="learningApproach"/>
+<!-- Search phrases / keywords  -->
+<meta name="keywords"/>
+<!-- Geo  -->
+<meta name="Content-Locale" content="en_US"/>
+<!-- Language  -->
+<meta name="Content-Language" content="en"/>
+
+<meta name="publishDate" content="2017-04-20T19:36:51.695Z"/>
+<!-- Published URL  -->
+<meta name="publishExternalUrl" content="https://helpx.adobe.com/404.html"/>
+<!-- Landing Page -->
+<meta name="sling:resourceType" content="help/components/pages/article-3"/>
+<!-- Salesforce Article Group -->
+<meta name="articleGroup" content="404.html"/>
+<!-- Creative field -->
+<meta name="creativeField"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- First Published Live Date-->
+<meta name="firstPublishedLive" content="2015-11-06T21:55:36.049Z"/>
+<!-- Other misc dates -->
+<meta name="creationDate" content="2017-07-18T01:55:31.137Z"/>
+<meta name="lastModifiedDate" content="2017-04-20T19:36:51.889Z"/>
+<!-- Last Modified By -->
+<meta name="lastModifiedBy" content="echampio"/>
+<!-- Last Created By -->
+<meta name="createdBy" content="admin"/>
+<!-- Last Replicated By -->
+<meta name="lastReplicatedBy" content="cshiau@adobe.com"/>
+
+
+<meta name="pageCreatedAt" content="/content/help/en/404"/>
+
+<meta name="translated" content="false"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+<meta name="serp-content-type" content="help"/>
+
+
+    
+    
+
+<link rel="canonical" href="https://helpx.adobe.com/404.html"/>
+
+<!-- favicon -->
+<link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+
+
+
+    <link rel="stylesheet" href="https://use.typekit.net/glm4yoq.css"/>
+    
+
+
+
+
+
+  
+  <!--
+ * ScriptName: /shared/clickjacking.ssi
+ *  Important: Do not edit this file directly.
+ *             Edit the source in git: /apps/help/helpx/shared/clickjacking.ssi
+-->
+<style>
+body.locale_zh_CN div.article-footer div#askthecommunity {
+	visibility:hidden;
+}
+</style>
+<style id="antiClickjack">body{display:none !important;}</style>
+
+<script type="text/javascript">
+
+    var pageIsIframed = window.self !== window.top;
+    var isPartnerDomain = false;
+    var partnerDomains = [
+        new RegExp('https:\/\/.*\.adobe\.com'),                   // adobe.com (this one had a problem http://regexr.com/3gfmk)
+        new RegExp('https:\/\/adobe\.com'),                       // all adobe subdomains
+        new RegExp('https:\/\/.*\.adobecc\.com'),                 // adobecc.com
+        new RegExp('https:\/\/adobecc\.com'),                     // 
+        new RegExp('https:\/\/echosign\.com'),                    // echosign.com
+        new RegExp('https:\/\/.*\.echosign\.com'),                // subdomains.echosign.com
+        new RegExp('https:\/\/.*\.echocdn\.com'),                 // subdomains.echocdn.com (MWPW-30824)
+        new RegExp('https:\/\/.*\.echocdnstage\.com'),            // subdomains.echocdnstage.com (MWPW-30824)
+        new RegExp('https:\/\/.*\.echocdnawspreview\.com'),       // subdomains.echocdnawspreview.com (MWPW-30824)
+        new RegExp('https:\/\/.*\.echosignawspreview\.com'),      // subdomains.echosignawspreview.com
+        new RegExp('https:\/\/.*\.echosignstage\.com'),           // subdomains.echosignstage.com
+        new RegExp('https:\/\/.*\.echosigndemo\.com'),            // subdomains.echosigndemo.com
+        new RegExp(':\/\/adobe\.lookbookhq\.com')                 // MWPW-24834
+    ];
+
+    // When this page is first is loaded in an iframe, the document.referrer == the parent url
+    // which contains the iframe el (should be a partner domain). As the user navigates within that
+    // iframe, the document.referrer will be from iframe's own domain (should also match a partner domain).
+    var parentDomain = document.createElement("a");
+    parentDomain.href = document.referrer;
+    parentDomain = parentDomain.protocol + '//' + parentDomain.hostname;
+    partnerDomains.forEach(function(partnerDomain) {
+        if(parentDomain.match(partnerDomain)){
+            isPartnerDomain = true;
+        }
+    });
+
+    if (!pageIsIframed || isPartnerDomain) {
+        var d = document.getElementById('antiClickjack');
+        d.parentNode.removeChild(d);
+    }
+
+    if (pageIsIframed && parentDomain.indexOf('force') !== -1) {
+        // Is a salesforce page which holds this iframe
+        // hide feedback pod
+        var feedbackPod = document.getElementById('feedbackPod');
+        if (typeof(feedbackPod) != 'undefined' && feedbackPod != null) {
+          feedbackPod.style.display = "none";
+        }
+    }
+</script>
+
+
+<script>
+    if (typeof DEBUG == "undefined" ) {
+        var DEBUG = (location.href.indexOf("debug=true")) > 0 ? true : false;
+    }
+</script>
+
+    
+
+
+
+
+
+  
+    
+    
+<link rel="stylesheet" href="/etc.dexter.dexterlibs/dexter/clientlibs/base/theme.fp-acc288f5544f34a9432bb65a586f2587.css" type="text/css">
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.dexter.dexterlibs/dexter/clientlibs/base/publish.fp-b8d82f289ca376af170eb5f1282d1287.css" type="text/css">
+
+
+
+  
+
+
+
+<!-- /components/pages/article-3/linkprojectoverride.html -->
+
+
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.dexter.dexterlibs/help/components/pages/article-3/clientlibs.fp-d8f1f46f8068c0f4b02e602fcf939a5c.css" type="text/css">
+
+
+
+
+
+<!--  Empty placeholder for search -->
+ <script>
+        var product = "";
+ </script>
+
+
+
+    
+    
+		
+		
+		
+    
+    
+        <script src="https://www.adobe.com/etc.clientlibs/globalnav/clientlibs/base/polyfills.js" nomodule></script>
+        <script>
+
+            var gnavExp = 'acom';
+            var disableSearchTemplate = 'helpx/components/structure/helpxMain';
+            if(URLSearchParams){
+                var searchParams = new URLSearchParams(window.location.href);
+                gnavExp = searchParams.get('gnavExp') || gnavExp;
+            }
+
+            window.fedsConfig = {
+                locale: 'en',
+                disableSticky: true,
+                content: {
+                    experience: gnavExp,
+                },
+                subnav: {},
+            footer: {
+                regionModal: function () { window.location.hash = 'languageNavigation'; }
+            },
+            breadcrumbs: {
+                showLogo: true,
+                links: []
+            },
+            privacy: {
+                otDomainId: '7a5eb705\u002D95ed\u002D4cc4\u002Da11d\u002D0cc5760e93db' || '7a5eb705-95ed-4cc4-a11d-0cc5760e93db-test',
+                    footerLinkSelector: '[data\u002Dfeds\u002Daction=\x22open\u002Dadchoices\u002Dmodal\x22]'
+            },
+            search: {
+                context: '',
+            },
+            disableSearch: 'help/components/pages/article-3' === disableSearchTemplate
+        };
+        </script>
+        <script>
+            window.fedsConfig.jarvis = {
+                surfaceName: 'helpx-default',
+                surfaceVersion: '1.0',
+                onReady: function (newChatEnabled, jarvisData) {
+                    // Works for older templates
+                    if (typeof (enableLE) == 'function') { enableLE(); }
+                    // Works for new templates
+                    if (window.helpxGlobalNav) { window.helpxGlobalNav.enableLE(); }
+                },
+                onError: function () {
+                    // Works for older templates
+                    if (typeof (enableLP) == 'function') { enableLP(); }
+                    // Works for new templates
+                    if (window.helpxGlobalNav) { window.helpxGlobalNav.enableLP(); }
+                },
+                openExistingChat: function () {
+                    // Works for older templates
+                    if (typeof (enableLP) == 'function') { enableLP(); }
+                    // Works for new templates
+                    if (window.helpxGlobalNav) { window.helpxGlobalNav.enableLP(); }
+                },
+                getContext: (window.dexter && window.dexter.callbacks) ? window.dexter.callbacks.getContext : null,
+                directConfig: {
+                    lazyLoad: true
+                }
+            }
+        </script>
+        <script src="https://www.adobe.com/etc.clientlibs/globalnav/clientlibs/base/feds.js" id="feds-script"></script>
+    
+
+	
+
+</head>
+
+    
+
+
+<!-- ae and il are conditions for Anuvaad -->
+
+
+<body class=" lang_en locale_en_US    ">
+
+    
+    
+
+
+
+
+
+<div id="page-header" class="globalNavHeader">
+	
+
+
+
+
+    
+
+    <div>
+        <div id="feds-header"></div>
+        
+    </div>
+
+
+	
+
+	
+	
+
+
+
+<div id="title-bar" class="titlebar">
+    <div class="container clearfix">
+        
+        
+            <h1 class="page-title "> </h1>
+        
+        <div class="back-to-search"><span>Search</span></div>
+
+        
+        
+
+
+
+
+    
+
+
+
+
+<script>
+    var usseEndpoint = 'https://adobesearch.adobe.io/autocomplete/completions';
+    var usseApiKey = 'helpxcomprod';
+    var usseRedirectUrl = '/search.html';
+    var usseAutocompleteLocales = 'en,fr,de,jp';
+</script>
+
+
+<!-- USS search container -->
+<div id="uss-search-container">
+    <div id="search" class="UssSearchInterface" data-enable-history="true">
+        <div class="UssAnalytics" data-search-hub="AEM Customer Search" data-anonymous="true">
+        </div>
+		<section id="search-section" class="UssSearchInterface UssState UssComponentState UssComponentOptions UssQueryController UssDebug">
+			<div type="text" class="UssOmnibox uss-box uss-box-hasFocus" data-enable-top-query-addon="false" data-enable-reveal-query-suggest-addon="true" data-enable-search-as-you-type="false" data-enable-wildcards="true" data-search-as-you-type-delay="1000" data-placeholder="Search Adobe Support">
+				<div class="uss-box-clear">
+					<div class="uss-box-icon">
+					</div>
+				</div>
+				<div class="uss-box-input">
+					<input tabindex="0" spellcheck="false" autocomplete="off" form="uss-dummy-form" placeholder="Search Adobe Support" aria-label="Search Adobe Support" type="text" maxlength="168" class="search-input-field" id="uss-search-input" oninput="submitAutoCompleteQuery()" onfocus="ussWithFocus()" onblur="ussWithoutFocus()"/>
+				</div>
+			</div>
+			<input type="submit" id="uss-submit-button" class="UssSearchButton" value="" tabindex="-1"/>
+			<span class="query-box-clear icon" id="uss-querybox-clear" onclick="clearSearchBox();"></span>
+		</section>
+    </div>
+</div>
+
+   </div>
+</div>
+
+
+
+
+
+	<!-- /* User Guide Navigation Band */ -->
+	
+		
+
+<div class="userguide-outer-nav-container">
+	<div class="container">
+		<a class="breadcrumb-ug-link">
+			<div class="breadcrumb-home">
+				<div class="product-name">
+					
+						 User Guide
+					
+					<!--User Guide-->
+				</div>
+			</div>
+		</a>
+		<span class="divider"></span>
+		<div class="article-container">
+			<a class="current-article"></a>
+		</div>
+		<div class="select-article-container" data-back-to-topic="Back to Topic">
+			<div class="select-article">
+				<label>
+					<div class="selectbox">
+						<div class="article-dropdown">
+							<span id="article-ug-nav-label">Select an article:</span>
+							<button aria-haspopup="listbox" aria-labelledby="article-ug-nav-label article-ug-nav-button" id="article-ug-nav-button">Select an article:</button>
+						</div>
+						<ul id="article-ug-nav-options-list" class="options hidden" tabindex="-1" role="listbox" aria-labelledby="article-ug-nav-label"></ul>
+					</div>
+				</label>
+			</div>
+		</div>
+	</div>
+</div>
+	
+</div>
+
+
+    <article>
+	
+	
+	
+	<div class="grid-row container">
+
+		<div class="article-content clearfix">
+			<div id="sidebar" class="grid-cols-3 ">
+				<div>
+
+
+</div>
+
+<div>
+</div>
+
+<div class="article-publish-date">
+	<label class="publish-label" data-last-published="Last Published:"></label>
+	<span class="publish-date"></span>
+</div>
+<!--
+  *** Important: Do not edit this file directly.
+      Edit the source in git (day9): /apps/help/helpx/shared/article-3/promo.ssi
+-->
+<!-- /shared/article-3/promo.ssi -->
+<style>
+  #chinese-disclaimer {
+	display: none;
+    border: solid 2px #f53c3c;
+    border-radius: 4px;
+    margin-top: 30px;
+    padding: 4px 16px 4px 16px;
+    font-weight: 600;
+    line-height: 20px;
+  }
+  #chinese-disclaimer .warning-icon {
+     float:right; 
+     width: 16px; 
+     height: 16px;
+     margin: 13px 0 10px 10px;
+  }
+  #sidebar.show-chinese-disclaimer {	
+	padding-bottom: 80px !important;
+  }
+  #sidebar.show-chinese-disclaimer #chinese-disclaimer {	
+	display: block;
+  }
+</style>
+
+<div id="chinese-disclaimer">
+	<span class="warning-icon"><img src="/shared/article-3/alert.svg"></span>
+	<p>某些 Creative Cloud 应用程序、服务和功能在中国不可用。</p>
+</div>
+
+<script>
+(function() {
+  function showChineseDisclaimer(json){
+	var isChinese = document.getElementsByTagName("body")[0].classList.contains('locale_zh_CN');
+    if (isChinese || location.search.indexOf('showChineseDisclaimer=true') > 0) {
+	    document.getElementById("sidebar").classList.add("show-chinese-disclaimer")
+    }
+  }
+  document.addEventListener("DOMContentLoaded", showChineseDisclaimer);
+})();
+</script>
+<!-- script src="https://geo2.adobe.com/json/?callback=showChineseDisclaimer"></script -->
+<!-- Adobe MAX 2019 -->	
+<p class="promo-asurion" style="display:none; margin-top:20px;"><a href="https://asurion.com/adobe/?utm_source=adobe&utm_medium=bannerad&utm_campaign=adobesupport" target="_blank"><img src="/shared/article-3/asurion_banner_final.jpg"></a></p>
+
+<script>
+var pagesForAsurion = [
+	"/creative-cloud/kb/troubleshoot-download-install-logs.html",
+	"/download-install/kb/common-network-connectivity-issues.html",
+	"/photoshop/system-requirements.html",
+	"/creative-cloud/system-requirements.html",
+	"/x-productkb/policy-pricing/activation-network-issues.html",
+	"/creative-cloud/kb/creative-cloud-app-doesnt-open.html",
+	"/download-install/kb/close-conflicting-processes.html",
+	"/acrobat/system-requirements.html",
+	"/premiere-pro/system-requirements.html",
+	"/x-productkb/multi/drivers-video-win-nvidia.html",
+	"/illustrator/system-requirements.html",
+	"/x-productkb/multi/drivers-video-win-intel.html",
+	"/download-install/kb/troubleshoot-licensing-activation.html",
+	"/lightroom-cc/system-requirements.html",
+	"/lightroom-classic/system-requirements.html",
+	"/after-effects/system-requirements.html",
+	"/photoshop/kb/photoshop-cc-gpu-card-faq.html",
+	"/photoshop/kb/troubleshoot-gpu-graphics-card.html",
+	"/download-install/kb/error_on_launch.html",
+	"/lightroom-classic/kb/lightroom-gpu-faq.html",
+	"/premiere-pro/kb/gpu-and-gpu-driver-requirements-for-premiere-pro.html",
+	"/illustrator/kb/gpu-performance-preview-improvements.html",
+	"/illustrator/kb/illustrator-gpu-performance-driver-update.html",
+	"/illustrator/kb/illustrator-cc-crash-wacom-drivers.html",
+	"/x-productkb/multi/gpu-acceleration-and-hardware-encoding.html",
+	"/illustrator/kb/gpu-performance-errors-troubleshooting-workarounds.html"
+];
+
+var elem = document.getElementsByClassName('promo-asurion')[0];
+if (elem) {
+	for (var i = 0; i < pagesForAsurion.length; i++) {
+		if (location.pathname.indexOf(pagesForAsurion[i]) > -1 && AdobeLearn.Locale["pageLocale"] == "en_us") {    
+			elem.style.display = 'block';
+		}
+	};
+}
+
+</script>
+
+
+
+
+
+			</div>
+
+			<div id="main-content" class="grid-cols-8">
+        		
+
+				<!-- version component -->
+				<div class="aem-version">
+
+</div>
+
+				
+				
+
+				
+				<div><div class="text parbase section">
+
+    <a name="main-pars_text_0"></a>
+    
+    
+
+</div>
+<div class="text parbase section">
+
+    <a name="main-pars_text_1"></a>
+    
+        
+            <div class="text"><p><img title="404. Page not found." alt="404. Page not found." width="350" class="cq-dd-image" src="/content/dam/help/images/404-error.png"/></p>
+</div>
+        
+    
+    
+
+</div>
+<div class="text parbase section">
+
+    <a name="main-pars_text"></a>
+    
+        
+            <div class="text"><p>&nbsp; Page not found. For help, visit <a href="https://helpx.adobe.com/support.html?promoid=88X75SWR&amp;mv=other">Adobe Support.</a></p>
+<p>&nbsp; &nbsp;ページが見つかりません。ヘルプについては、<a href="https://helpx.adobe.com/jp/support.html?promoid=8DN85P5Q&amp;mv=other">アドビサポート</a>にアクセスしてください。</p>
+<p>&nbsp; Seite nicht gefunden. Hilfe erhalten Sie vom <a href="https://helpx.adobe.com/de/support.html?promoid=8JD95KFP&amp;mv=other">Adobe-Support.</a></p>
+<p>&nbsp; Page introuvable. Pour obtenir de l’aide, contactez <a href="https://helpx.adobe.com/fr/support.html?promoid=8N4B5FPN&amp;mv=other">l’assistance Adobe.</a>&nbsp;</p>
+<p>&nbsp; 페이지를 찾을 수 없습니다. 도움이 필요하면 <a href="https://helpx.adobe.com/kr/support.html?promoid=8RVC59YM&amp;mv=other">Adobe 지원</a>에 방문하십시오.</p>
+<p>&nbsp; Página no encontrada. Para obtener ayuda, visite <a href="https://helpx.adobe.com/es/support.html?promoid=8WLD567L&amp;mv=other">Asistencia de Adobe.</a></p>
+<p>&nbsp; Página não encontrada. Para obter ajuda, visite o <a href="https://helpx.adobe.com/br/support.html?promoid=9DJJ4P9G&amp;mv=other">Suporte da Adobe.</a></p>
+<p>&nbsp; Страница не найдена. Обратитесь за помощью в службу <a href="https://helpx.adobe.com/ru/support.html?promoid=B4XQ3XW8&amp;mv=other">поддержки Adobe.</a></p>
+<p>&nbsp; 未找到页面。如需帮助，请访问 <a href="https://helpx.adobe.com/cn/support.html">Adobe Support</a>。</p>
+<p>&nbsp; 找不到頁面。如需尋求協助，請造訪 <a href="https://helpx.adobe.com/tw/support.html">Adobe 支援</a>。</p>
+<p style="margin-left: 40px;">&nbsp;</p>
+</div>
+        
+    
+    
+
+</div>
+
+</div>
+
+				
+				<div class="related-links">
+					<div>
+
+<div></div>
+
+    
+        
+            
+        
+
+    
+
+
+</div>
+					
+				</div>
+
+				<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+			</div>
+		</div>
+	</div>
+</article>
+
+    
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var pathToMoreHelp = "";
+	var displayAemVersionString = "false";
+</script>
+
+<script>
+	var communityLink = "https:\/\/forums.adobe.com\/welcome";
+	var contactLink = "\/contact.html";
+</script>
+<footer>
+	<div class="article-footer">
+		<div class="grid-container container">
+			<div class="grid-row">
+				
+				<div class="grid-cols-6 hotspots-col-container">
+					<div class="grid-cols-3 hotspots-col">
+						<div class="hotspots">
+							<div id="askthecommunity">
+								<span class="support-topics-icon ask-the-community-svg"></span>
+								<h3><span>Ask the Community</span></h3>
+								<p><span class="c-description">Post questions and get answers from experts.</span></p>
+								<a class="hx-red-button" href="https://forums.adobe.com/welcome">Ask now</a>
+							</div>
+						</div>
+					</div>
+					<div class="grid-cols-3 hotspots-col">
+						<div class="hotspots">
+							<div id="contactus">
+								<span class="support-topics-icon contact-us-svg"></span>
+								<h3><span>Contact Us</span></h3>
+								<p><span class="c-description">Real help from real people.</span></p>
+								<a class="hx-red-button" href="/contact.html">Start now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="grid-cols-3 last-col">
+					<a class="hx-back-to-top" href="#" onclick="globalBackToTop()">^&nbsp;Back to top</a>
+					
+						<!-- feedback.html -->
+
+
+    
+    
+    
+
+    <div id="feedbackPod">
+        <div id="helpful-pod">
+            <div class="radiobuttons" role="radiogroup">
+                <div id="helpfulspan">Was this page helpful?</div>
+
+                <div id="yes-container" role="radio" aria-checked="false">
+                    <a id="radioyes" href="javascript:showForm('yes');" class="radio-button">
+                        <svg height="18" width="22" class="svg-radio-button" focusable="false">
+                            <circle cx="10" cy="10" r="7.5" stroke="#BCBCBC" stroke-width="0.5" fill="#fff"/>
+                        </svg>
+                        <span id="yesspan">Yes</span>
+                    </a>
+                </div>
+                <div id="no-container" role="radio" aria-checked="false">
+                    <a id="radiono" href="javascript:showForm('no');" class="radio-button">
+                        <svg height="18" width="22" class="svg-radio-button" focusable="false">
+                            <circle cx="10" cy="10" r="7.5" stroke="#BCBCBC" stroke-width="0.5" fill="#fff"/>
+                        </svg>
+                        <span id="nospan">No</span>
+                    </a>
+                </div>
+            </div>
+
+            
+            <div id="helpful" class="collapsed">
+                <textarea id="feedbacktext" maxlength="250" placeholder="(Optional) Please let us know how we can improve this page." rows="5" cols="25" style="font-family:sans-serif;display:none"></textarea>
+                <button tabindex="0" id="noCommentButton" onClick="setFeedBackFlag(true);submitFeedbackForm('no');" style="display:none">No comment</button>
+                <button tabindex="0" id="submitButton" onClick="setFeedBackFlag(true);submitFeedbackForm('yes');" style="display:none">Submit</button>
+                <div id="termsofuse" style="display:none">By clicking Submit, you accept the <a target="_blank" href="https://www.adobe.com/legal/terms.html">Adobe Terms of Use.</a></div>
+            </div>
+        </div>
+    </div>
+
+
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</footer>
+
+
+<script>
+	productIcon = "";
+</script>
+
+
+    
+    
+<div id="global-footer">
+	
+
+
+
+    
+    <div id="feds-footer"></div>
+
+
+</div>
+
+
+<div class="modalContainer static">
+    
+        
+    <div class="modal dexter-Author-Hide">
+        <div class="dexter-Modal_overlay mobile-place-center mobile-place-middle" data-conf-display="onHashChange" aria-modal="true">
+            <div class="dexter-Modal mobile-width-100 mobile-height-100 tablet-width-640 tablet-height-auto desktop-width-1024" id="languageNavigation">
+                <h6 id="languageNavigation-modalTitle" class="hide-all">Language Navigation</h6>
+                <p id="languageNavigation-modalDescription" class="hide-all">Language Navigation</p>
+                <a href="#" class="dexter-CloseButton"><i class="dexter-CloseButton_icon spectrum-close-circle-dark"></i></a>
+                
+    <nav class="language-Navigation">
+        <h2 class="language-Navigation_heading">Choose a region</h2>
+        <p class="language-Navigation_subheading">Selecting a region changes the language and/or content on Adobe.com.</p>
+        <ul class="language-Navigation_region-List">
+            <li><h3>Americas</h3></li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/br/pt.html" hreflang="br">
+                        Brasil
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ca/en.html" hreflang="ca">
+                        Canada - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ca/fr.html" hreflang="ca_fr">
+                        Canada - Français
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/la/es.html" hreflang="la">
+                        Latinoamérica
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mx/es.html" hreflang="mx">
+                        México
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/en/404.html" hreflang="us">
+                        United States
+                    </a>
+                </li>
+            
+        
+            <li><h3>Asia Pacific</h3></li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/au/en.html" hreflang="au">
+                        Australia
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/hk/en.html" hreflang="hk_en">
+                        Hong Kong S.A.R. of China
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/in/en.html" hreflang="in">
+                        India - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/nz/en.html" hreflang="nz">
+                        New Zealand
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/sea/en.html" hreflang="sea">
+                        Southeast Asia (Includes Indonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam) - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/cn/zh-Hans.html" hreflang="cn">
+                        中国
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/hk/zh-Hant.html" hreflang="hk_zh">
+                        中國香港特別行政區
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/tw/zh-Hant.html" hreflang="tw">
+                        台灣地區
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/jp/ja.html" hreflang="jp">
+                        日本
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/kr/ko.html" hreflang="kr">
+                        한국
+                    </a>
+                </li>
+            
+        
+            <li><h3>Europe, Middle East and Africa</h3></li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/africa/en.html" hreflang="africa">
+                        Africa - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/be/nl.html" hreflang="be_nl">
+                        België - Nederlands
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/be/fr.html" hreflang="be_fr">
+                        Belgique - Français
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/be/en.html" hreflang="be_en">
+                        Belgium - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/cz/cs.html" hreflang="cz">
+                        Česká republika
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/cy/en.html" hreflang="cy_en">
+                        Cyprus - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/dk/da.html" hreflang="dk">
+                        Danmark
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/de/de.html" hreflang="de">
+                        Deutschland
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ee/et.html" hreflang="ee">
+                        Eesti
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/es/es.html" hreflang="es">
+                        España
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/fr/fr.html" hreflang="fr">
+                        France
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/gr/en.html" hreflang="gr_en">
+                        Greece - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ie/en.html" hreflang="ie">
+                        Ireland
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/il/en.html" hreflang="il_en">
+                        Israel - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/it/it.html" hreflang="it">
+                        Italia
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lv/lv.html" hreflang="lv">
+                        Latvija
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lt/lt.html" hreflang="lt">
+                        Lietuva
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lu/de.html" hreflang="lu_de">
+                        Luxembourg - Deutsch
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lu/en.html" hreflang="lu_en">
+                        Luxembourg - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lu/fr.html" hreflang="lu_fr">
+                        Luxembourg - Français
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/hu/hu.html" hreflang="hu">
+                        Magyarország
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mt/en.html" hreflang="mt">
+                        Malta - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mena/en.html" hreflang="mena_en">
+                        Middle East and North Africa - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/nl/nl.html" hreflang="nl">
+                        Nederland
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/no/no.html" hreflang="no">
+                        Norge
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/at/de.html" hreflang="at">
+                        Österreich
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/pl/pl.html" hreflang="pl">
+                        Polska
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/pt/pt.html" hreflang="pt">
+                        Portugal
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ro/ro.html" hreflang="ro">
+                        România
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ch/de.html" hreflang="ch_de">
+                        Schweiz
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/si/sl.html" hreflang="si">
+                        Slovenija
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/sk/sk.html" hreflang="sk">
+                        Slovensko
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ch/fr.html" hreflang="ch_fr">
+                        Suisse
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/fi/fi.html" hreflang="fi">
+                        Suomi
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ch/it.html" hreflang="ch_it">
+                        Svizzera
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/tr/tr.html" hreflang="tr">
+                        Türkiye
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/uk/en.html" hreflang="uk">
+                        United Kingdom
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/bg/bg.html" hreflang="bg">
+                        България
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ru/ru.html" hreflang="ru">
+                        Россия
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ua/uk.html" hreflang="ua">
+                        Україна
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mena/ar.html" hreflang="mena_ar">
+                        الشرق الأوسط وشمال أفريقيا - اللغة العربية
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/il/he.html" hreflang="il_he">
+                        ישראל - עברית
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/se/sv.html" hreflang="se">
+                        Sverige
+                    </a>
+                </li>
+            
+        </ul>
+    </nav>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+
+
+    
+    
+
+  
+    <script type="text/javascript">
+        window.dexter = window.dexter || {};
+        window.dexter.Analytics = window.dexter.Analytics || {};
+        window.dexter.Analytics.language = 'en_us';
+        window.dexter.Analytics.geoRegion = 'US';
+    </script>
+    
+        <script>
+            window.dexter.Analytics.targetEnabled = '' !== 'disabled';
+            window.dexter.Analytics.audienceManagerEnabled = '' !== 'disabled';
+        </script>
+        
+            <script>
+                window.dexter.Analytics.environment = 'production';
+                window.marketingtech = window.marketingtech || {};
+                window.marketingtech.adobe = {
+                    target: window.dexter.Analytics.targetEnabled,
+                    audienceManager: window.dexter.Analytics.audienceManagerEnabled,
+                    launch: {
+                        property: 'global',
+                        environment: window.dexter.Analytics.environment,
+                        controlPageLoad: false
+                    },
+                    analytics: {
+                        additionalAccounts: ''
+                    }
+                };
+            </script>
+        
+    
+
+  
+    
+    
+<script type="text/javascript" src="/etc.dexter.dexterlibs/helpx/clientBundles/helpxTools/clientlibs.fp-7708b7df693dcc115174dea77ce354d6.js"></script>
+
+
+
+  
+
+
+
+
+
+  
+    
+<script type="text/javascript" src="/etc.dexter.dexterlibs/dexter/clientlibs/base/headIE.fp-99254388ab2bb00e43cbc5fbabe0e392.js" nomodule></script>
+
+
+  
+    
+    
+<script type="text/javascript" src="/etc.dexter.dexterlibs/dexter/clientlibs/base/head.fp-d733b186bf3847fbed52f6547bfea70b.js"></script>
+
+
+
+    
+    
+<script type="text/javascript" src="/etc.dexter.dexterlibs/dexter/clientlibs/base/publish.fp-50d70d3185d51cd0d469b6255c3758aa.js"></script>
+
+
+
+  
+
+
+
+
+
+
+
+    
+    
+<script type="text/javascript" src="/etc.dexter.dexterlibs/help/components/pages/article-3/clientlibs.fp-d664d410398f59fbe540a989d60f24d1.js"></script>
+
+
+
+
+
+
+
+<!-- /* templates use this to add/override scripts at the end of the page */ -->
+
+
+
+
+  <!-- /* dexter models */ -->
+  
+
+    
+    <div style="display:none" class="modalContainer static">
+      
+        
+        
+    <div class="modal dexter-Author-Hide">
+        <div class="dexter-Modal_overlay mobile-place-center mobile-place-middle" data-conf-display="onHashChange" aria-modal="true">
+            <div class="dexter-Modal mobile-width-100 mobile-height-100 tablet-width-640 tablet-height-auto desktop-width-1024" id="languageNavigation">
+                <h6 id="languageNavigation-modalTitle" class="hide-all">Language Navigation</h6>
+                <p id="languageNavigation-modalDescription" class="hide-all">Language Navigation</p>
+                <a href="#" class="dexter-CloseButton"><i class="dexter-CloseButton_icon spectrum-close-circle-dark"></i></a>
+                
+    <nav class="language-Navigation">
+        <h2 class="language-Navigation_heading">Choose a region</h2>
+        <p class="language-Navigation_subheading">Selecting a region changes the language and/or content on Adobe.com.</p>
+        <ul class="language-Navigation_region-List">
+            <li><h3>Americas</h3></li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/br/pt.html" hreflang="br">
+                        Brasil
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ca/en.html" hreflang="ca">
+                        Canada - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ca/fr.html" hreflang="ca_fr">
+                        Canada - Français
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/la/es.html" hreflang="la">
+                        Latinoamérica
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mx/es.html" hreflang="mx">
+                        México
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/en/404.html" hreflang="us">
+                        United States
+                    </a>
+                </li>
+            
+        
+            <li><h3>Asia Pacific</h3></li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/au/en.html" hreflang="au">
+                        Australia
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/hk/en.html" hreflang="hk_en">
+                        Hong Kong S.A.R. of China
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/in/en.html" hreflang="in">
+                        India - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/nz/en.html" hreflang="nz">
+                        New Zealand
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/sea/en.html" hreflang="sea">
+                        Southeast Asia (Includes Indonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam) - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/cn/zh-Hans.html" hreflang="cn">
+                        中国
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/hk/zh-Hant.html" hreflang="hk_zh">
+                        中國香港特別行政區
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/tw/zh-Hant.html" hreflang="tw">
+                        台灣地區
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/jp/ja.html" hreflang="jp">
+                        日本
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/kr/ko.html" hreflang="kr">
+                        한국
+                    </a>
+                </li>
+            
+        
+            <li><h3>Europe, Middle East and Africa</h3></li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/africa/en.html" hreflang="africa">
+                        Africa - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/be/nl.html" hreflang="be_nl">
+                        België - Nederlands
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/be/fr.html" hreflang="be_fr">
+                        Belgique - Français
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/be/en.html" hreflang="be_en">
+                        Belgium - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/cz/cs.html" hreflang="cz">
+                        Česká republika
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/cy/en.html" hreflang="cy_en">
+                        Cyprus - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/dk/da.html" hreflang="dk">
+                        Danmark
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/de/de.html" hreflang="de">
+                        Deutschland
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ee/et.html" hreflang="ee">
+                        Eesti
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/es/es.html" hreflang="es">
+                        España
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/fr/fr.html" hreflang="fr">
+                        France
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/gr/en.html" hreflang="gr_en">
+                        Greece - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ie/en.html" hreflang="ie">
+                        Ireland
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/il/en.html" hreflang="il_en">
+                        Israel - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/it/it.html" hreflang="it">
+                        Italia
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lv/lv.html" hreflang="lv">
+                        Latvija
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lt/lt.html" hreflang="lt">
+                        Lietuva
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lu/de.html" hreflang="lu_de">
+                        Luxembourg - Deutsch
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lu/en.html" hreflang="lu_en">
+                        Luxembourg - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/lu/fr.html" hreflang="lu_fr">
+                        Luxembourg - Français
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/hu/hu.html" hreflang="hu">
+                        Magyarország
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mt/en.html" hreflang="mt">
+                        Malta - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mena/en.html" hreflang="mena_en">
+                        Middle East and North Africa - English
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/nl/nl.html" hreflang="nl">
+                        Nederland
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/no/no.html" hreflang="no">
+                        Norge
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/at/de.html" hreflang="at">
+                        Österreich
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/pl/pl.html" hreflang="pl">
+                        Polska
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/pt/pt.html" hreflang="pt">
+                        Portugal
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ro/ro.html" hreflang="ro">
+                        România
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ch/de.html" hreflang="ch_de">
+                        Schweiz
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/si/sl.html" hreflang="si">
+                        Slovenija
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/sk/sk.html" hreflang="sk">
+                        Slovensko
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ch/fr.html" hreflang="ch_fr">
+                        Suisse
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/fi/fi.html" hreflang="fi">
+                        Suomi
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ch/it.html" hreflang="ch_it">
+                        Svizzera
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/tr/tr.html" hreflang="tr">
+                        Türkiye
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/uk/en.html" hreflang="uk">
+                        United Kingdom
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/bg/bg.html" hreflang="bg">
+                        България
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ru/ru.html" hreflang="ru">
+                        Россия
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/ua/uk.html" hreflang="ua">
+                        Україна
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/mena/ar.html" hreflang="mena_ar">
+                        الشرق الأوسط وشمال أفريقيا - اللغة العربية
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/il/he.html" hreflang="il_he">
+                        ישראל - עברית
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://helpx.adobe.com/content/help/se/sv.html" hreflang="se">
+                        Sverige
+                    </a>
+                </li>
+            
+        </ul>
+    </nav>
+
+            </div>
+        </div>
+    </div>
+
+        
+        
+    <locale-modal data-current-locale-text="Are you visiting adobe.com from outside your region?
+            Visit your regional site for more relevant pricing, promotions and events." data-current-locale-button-text="Continue to this region">
+    </locale-modal>
+
+      
+    </div>
+
+    
+    
+<script>
+    var adobeid = {
+        env: '//ims-na1.adobelogin.com',
+        jumpToken: {
+            api: '/ims/jumptoken/v1',
+        },
+        client_id: 'AdobeSupport1',
+        scope: 'AdobeID,openid,gnav,creative_cloud,sao.creative_cloud,read_organizations,sao.cce_private,additional_info.projectedProductContext,additional_info.roles',
+        uses_redirect_mode: true,
+        locale: 'en_US',
+        uses_modal_mode: false,
+        api_parameters: {
+            authorize: {
+                state: {
+                    ac: 'AdobeSupport1',
+                }
+            }
+        },
+        redirect_uri: window.location.url,
+        onReady: function () {
+            window.dispatchEvent(new Event('dexter:IMSReady'));
+        }
+    };
+</script>
+<script src="https://static.adobelogin.com/imslib/imslib.min.js"></script>
+
+    
+    
+
+
+    
+    <script>
+        var privateBeta = "";
+        var privateFeaturePack = "";
+        var admittedDomains = "";
+        // new line
+        document.addEventListener("DOMContentLoaded", function () {
+          if (privateBeta || (privateFeaturePack && admittedDomains)) {
+            page.showPrivateBetaOrFeaturePack(privateBeta, privateFeaturePack, admittedDomains);
+          }
+        });
+      </script>
+
+  
+
+  
+  
+<script>
+    window.dexter.Anyware = window.dexter.Anyware || {};
+    window.dexter.Anyware.ims = {
+        clientId: 'unified_checkout_client_app',
+        targetScope: 'AdobeID,openid,sao.stock,additional_info.roles,additional_info.vat_id,additional_info.dob,update_profile.countryCode',
+    }
+    window.dexter.Ims = {
+        imsTimeout: '3000',
+    }
+</script>
+
+
+
+
+    
+
+
+
+    
+    
+
+
+
+
+
+
+</body>
+
+</html>
